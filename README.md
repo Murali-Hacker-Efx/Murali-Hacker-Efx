@@ -2,8 +2,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=950&lines=B.Tech+AI+%26+Data+Science+Student;Embedded+Systems+Developer;ESP32+%7C+ESP8266+Developer;IoT+%26+Home+Automation+Engineer;Home+Assistant+Enthusiast;PCB+Designer;Electronics+Researcher;Quick+Learner;Open+Source+Contributor;Always+Building+Something+New" /><p>
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Murali-Hacker-Efx?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/Murali-Hacker-Efx?style=for-the-badge"/>
 </p></div>---
 
 🚀 About Me
@@ -133,23 +133,23 @@ Software & Tools
 
 📈 GitHub Statistics
 
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/></p>---
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Murali-Hacker-Efx&show_icons=true&theme=tokyonight&hide_border=true"/>"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murali-Hacker-Efx &layout=compact&theme=tokyonight&hide_border=true"/></p>---
 
 🔥 GitHub Streak
 
-<p align="center"><img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/></p>---
+<p align="center"><img src="https://streak-stats.demolab.com?user=Murali-Hacker-Efx &theme=tokyonight&hide_border=true"/></p>---
 
 📊 Activity Graph
 
-<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/></p>---
+<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Murali-Hacker-Efx &theme=tokyo-night"/></p>---
 
 🏆 GitHub Trophies
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=2&column=4"/></p>---
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Murali-Hacker-Efx &theme=algolia&no-frame=true&row=2&column=4"/></p>---
 
 🐍 Contribution Snake
 
-<p align="center"><img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/></p>---
+<p align="center"><img src="https://raw.githubusercontent.com/Murali-Hacker-Efx/Murali-Hacker-Efx/output/github-contribution-grid-snake.svg"/></p>---
 
 💡 Development Philosophy
 
@@ -161,11 +161,11 @@ Software & Tools
 
 🌐 Connect With Me
 
-<p align="center"><a href="https://github.com/YOUR_USERNAME">
+<p align="center"><a href="https://github.com/Murali-Hacker-Efx">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a><a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
-</a><a href="https://instagram.com/YOUR_INSTAGRAM">
+</a><a href="https://instagram.com/murali_hacker_efx">
 <img src="https://skillicons.dev/icons?i=instagram"/>
 </a></p>---
 
@@ -219,9 +219,9 @@ Software & Tools
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Murali-Hacker-Efx &show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murali-Hacker-Efx &layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -231,7 +231,7 @@ Software & Tools
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Murali-Hacker-Efx &theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -241,7 +241,7 @@ Software & Tools
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Murali-Hacker-Efx &theme=tokyo-night"/>
 
 </p>
 
@@ -251,7 +251,7 @@ Software & Tools
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Murali-Hacker-Efx &theme=tokyonight&no-frame=true&row=2&column=4"/>
 
 </p>
 
@@ -261,7 +261,7 @@ Software & Tools
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/Murali-Hacker-Efx/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
