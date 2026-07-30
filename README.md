@@ -90,3 +90,8 @@ _This table refreshes automatically from your real pinned/starred repositories t
   <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=1">
   <img alt="Murali Krishna banner" src="./banner.svg?v=1" width="100%">
 </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=2">
+  <img alt="Murali Krishna banner" src="./banner.svg?v=2" width="100%">
+</picture>
