@@ -1,0 +1,94 @@
+<svg width="900" height="165" viewBox="0 0 900 165" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#160821"/><stop offset="100%" stop-color="#2a1140"/>
+    </linearGradient>
+    <linearGradient id="ringGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff2d95"/><stop offset="100%" stop-color="#a855f7"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="900" height="165" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="900" height="165" fill="url(#bgGrad)"/>
+    <rect width="900" height="165" fill="none" stroke="#ff6ec7" stroke-opacity="0.3"/>
+    
+    <g class="trophy" transform="translate(75.0,82.5)" opacity="0">
+      <animateTransform attributeName="transform" type="scale" additive="sum" values="0.5;1.08;1" keyTimes="0;0.7;1" dur="0.5s" begin="0.30s" fill="freeze"/>
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.30s" fill="freeze"/>
+      <circle r="38" fill="none" stroke="url(#ringGrad)" stroke-width="3" opacity="0.8"/>
+      <text x="0" y="-6" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="20" font-weight="800" fill="#ff6ec7">{{TROPHY0_RANK}}</text>
+      <text x="0" y="16" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="10" fill="#e7d6f5">Repositories</text>
+      <rect x="-38" y="-58" width="76" height="18" rx="4" fill="none"/>
+    </g>
+    <g class="shine" transform="translate(0.0,0)">
+      <rect x="0" y="0" width="45.0" height="165" fill="#ffffff" opacity="0.04">
+        <animateTransform attributeName="transform" type="translate" values="-40 0;450.0 0" dur="3s" begin="1.20s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+    <g class="trophy" transform="translate(225.0,82.5)" opacity="0">
+      <animateTransform attributeName="transform" type="scale" additive="sum" values="0.5;1.08;1" keyTimes="0;0.7;1" dur="0.5s" begin="0.45s" fill="freeze"/>
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.45s" fill="freeze"/>
+      <circle r="38" fill="none" stroke="url(#ringGrad)" stroke-width="3" opacity="0.8"/>
+      <text x="0" y="-6" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="20" font-weight="800" fill="#ff6ec7">{{TROPHY1_RANK}}</text>
+      <text x="0" y="16" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="10" fill="#e7d6f5">Commits</text>
+      <rect x="-38" y="-58" width="76" height="18" rx="4" fill="none"/>
+    </g>
+    <g class="shine" transform="translate(150.0,0)">
+      <rect x="0" y="0" width="45.0" height="165" fill="#ffffff" opacity="0.04">
+        <animateTransform attributeName="transform" type="translate" values="-40 0;450.0 0" dur="3s" begin="1.30s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+    <g class="trophy" transform="translate(375.0,82.5)" opacity="0">
+      <animateTransform attributeName="transform" type="scale" additive="sum" values="0.5;1.08;1" keyTimes="0;0.7;1" dur="0.5s" begin="0.60s" fill="freeze"/>
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.60s" fill="freeze"/>
+      <circle r="38" fill="none" stroke="url(#ringGrad)" stroke-width="3" opacity="0.8"/>
+      <text x="0" y="-6" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="20" font-weight="800" fill="#ff6ec7">{{TROPHY2_RANK}}</text>
+      <text x="0" y="16" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="10" fill="#e7d6f5">Stars</text>
+      <rect x="-38" y="-58" width="76" height="18" rx="4" fill="none"/>
+    </g>
+    <g class="shine" transform="translate(300.0,0)">
+      <rect x="0" y="0" width="45.0" height="165" fill="#ffffff" opacity="0.04">
+        <animateTransform attributeName="transform" type="translate" values="-40 0;450.0 0" dur="3s" begin="1.40s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+    <g class="trophy" transform="translate(525.0,82.5)" opacity="0">
+      <animateTransform attributeName="transform" type="scale" additive="sum" values="0.5;1.08;1" keyTimes="0;0.7;1" dur="0.5s" begin="0.75s" fill="freeze"/>
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.75s" fill="freeze"/>
+      <circle r="38" fill="none" stroke="url(#ringGrad)" stroke-width="3" opacity="0.8"/>
+      <text x="0" y="-6" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="20" font-weight="800" fill="#ff6ec7">{{TROPHY3_RANK}}</text>
+      <text x="0" y="16" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="10" fill="#e7d6f5">Followers</text>
+      <rect x="-38" y="-58" width="76" height="18" rx="4" fill="none"/>
+    </g>
+    <g class="shine" transform="translate(450.0,0)">
+      <rect x="0" y="0" width="45.0" height="165" fill="#ffffff" opacity="0.04">
+        <animateTransform attributeName="transform" type="translate" values="-40 0;450.0 0" dur="3s" begin="1.50s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+    <g class="trophy" transform="translate(675.0,82.5)" opacity="0">
+      <animateTransform attributeName="transform" type="scale" additive="sum" values="0.5;1.08;1" keyTimes="0;0.7;1" dur="0.5s" begin="0.90s" fill="freeze"/>
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.90s" fill="freeze"/>
+      <circle r="38" fill="none" stroke="url(#ringGrad)" stroke-width="3" opacity="0.8"/>
+      <text x="0" y="-6" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="20" font-weight="800" fill="#ff6ec7">{{TROPHY4_RANK}}</text>
+      <text x="0" y="16" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="10" fill="#e7d6f5">Contributions</text>
+      <rect x="-38" y="-58" width="76" height="18" rx="4" fill="none"/>
+    </g>
+    <g class="shine" transform="translate(600.0,0)">
+      <rect x="0" y="0" width="45.0" height="165" fill="#ffffff" opacity="0.04">
+        <animateTransform attributeName="transform" type="translate" values="-40 0;450.0 0" dur="3s" begin="1.60s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+    <g class="trophy" transform="translate(825.0,82.5)" opacity="0">
+      <animateTransform attributeName="transform" type="scale" additive="sum" values="0.5;1.08;1" keyTimes="0;0.7;1" dur="0.5s" begin="1.05s" fill="freeze"/>
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.05s" fill="freeze"/>
+      <circle r="38" fill="none" stroke="url(#ringGrad)" stroke-width="3" opacity="0.8"/>
+      <text x="0" y="-6" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="20" font-weight="800" fill="#ff6ec7">{{TROPHY5_RANK}}</text>
+      <text x="0" y="16" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="10" fill="#e7d6f5">Experience</text>
+      <rect x="-38" y="-58" width="76" height="18" rx="4" fill="none"/>
+    </g>
+    <g class="shine" transform="translate(750.0,0)">
+      <rect x="0" y="0" width="45.0" height="165" fill="#ffffff" opacity="0.04">
+        <animateTransform attributeName="transform" type="translate" values="-40 0;450.0 0" dur="3s" begin="1.70s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
+</svg>
