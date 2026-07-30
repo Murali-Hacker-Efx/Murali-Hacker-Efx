@@ -1,69 +1,87 @@
 <div align="center">
 
-<img src="./assets/profile.jpg" width="100%" alt="Murali Krishna Banner"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=1">
+  <img alt="Murali Krishna banner" src="./banner.svg?v=1" width="100%">
+</picture>
 
-# Hi there, I'm Murali Krishna 👋
+<img src="./lanyard.svg?v=1" alt="Murali Krishna developer ID" height="420">
 
-### IoT Enthusiast | Electronics & Electrical Technician | Hardware Project Builder
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Murali-Hacker-Efx&label=Profile%20Views&color=ff2d95&style=flat" alt="Profile views">
+<img src="https://img.shields.io/github/followers/Murali-Hacker-Efx?label=Followers&style=flat&color=7b2ff7" alt="Followers">
 
 </div>
 
----
+## 👋 About Me
 
-### 👨‍💻 About Me
+- 🔧 AC Technician & Electrician
+- ⚡ Electronics & IoT Project Enthusiast
+- 🏠 Building Smart Home Automation Projects
+- 📡 Working with ESP8266, ESP32, WiFi & MQTT
+- 💻 Interested in Computer Hardware & Programming
+- 🎬 Interested in Video Editing
+- 🚀 Always Learning & Building New Projects
 
-I'm **M. Murali Krishna**, an electronics, electrical and IoT enthusiast from **Ramanathapuram, Tamil Nadu, India**.
+> Building smart things, breaking limits & turning ideas into reality ⚡
 
-I enjoy building practical hardware projects using **ESP32, ESP8266, sensors, relays, motors and wireless communication modules**.
+## 🛠️ Tech Stack
 
-My interests include **IoT, Home Automation, Electronics, Networking, Embedded Systems, WiFi Security Research, Computer Hardware and Video Editing**.
+<div align="center">
 
-I love turning ideas into real working hardware projects and continuously learning new technologies.
+![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![Home Assistant](https://img.shields.io/badge/Home%20Assistant-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
+</div>
 
-### 🛠️ Tech Stack
+## 📊 Local GitHub Stats
 
-**Microcontrollers & IoT**
+<div align="center">
+<img src="./stats.svg?v=1" alt="GitHub stats" width="48%">
+<img src="./langs.svg?v=1" alt="Most used languages" width="48%">
+</div>
 
-<img src="https://skillicons.dev/icons?i=arduino" height="45"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/espressif/E7352C" height="45"/>
+<div align="center">
+<img src="./trophies.svg?v=1" alt="GitHub trophies" width="96%">
+</div>
 
-**Programming & Development**
+> These cards are generated **locally in this repo** (not a rate-limited third-party service) and refresh automatically every day via [`update-stats.yml`](./.github/workflows/update-stats.yml), which pulls real numbers straight from the GitHub API.
 
-<img src="https://skillicons.dev/icons?i=c,cpp,html,css,github,vscode" height="45"/>
+## 🚀 Featured Projects
 
-**Platforms & Technologies**
+<!--PROJECTS:START-->
+_This table refreshes automatically from your real pinned/starred repositories the first time [`update-stats.yml`](./.github/workflows/update-stats.yml) runs — run it once from the **Actions** tab to populate it._
+<!--PROJECTS:END-->
 
-![ESP32](https://img.shields.io/badge/ESP32-IoT-red?style=for-the-badge)
-![ESP8266](https://img.shields.io/badge/ESP8266-WiFi-blue?style=for-the-badge)
-![Home Assistant](https://img.shields.io/badge/Home_Assistant-Automation-18BCF2?style=for-the-badge)
-![MQTT](https://img.shields.io/badge/MQTT-IoT-purple?style=for-the-badge)
+## 📈 Contribution Activity
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Murali-Hacker-Efx/Murali-Hacker-Efx/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Murali-Hacker-Efx/Murali-Hacker-Efx/output/github-snake-light.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Murali-Hacker-Efx/Murali-Hacker-Efx/output/github-snake.svg" width="100%">
+</picture>
 
-### ⚡ What I Do
+> Generated daily by [`github-snake.yml`](./.github/workflows/github-snake.yml) using [Platane/snk](https://github.com/Platane/snk) and published to the `output` branch. Run it once from the **Actions** tab if the graphic above hasn't appeared yet.
 
-- 🔌 Build **electronics and electrical projects**
-- 📡 Develop **ESP32 & ESP8266 IoT systems**
-- 🏠 Create **smart home automation projects**
-- 🤖 Build **RC cars and wireless control systems**
-- 🛠️ Prototype and troubleshoot **electronic circuits**
-- 🌐 Work with **WiFi, MQTT and local web control**
-- 🔐 Explore **WiFi security and cybersecurity technologies**
-- 💻 Experiment with **computer hardware and networking**
-- 🎬 Create and edit **digital/video content**
+## 📫 Connect With Me
 
----
+<div align="center">
 
-### 🚀 Current Interests
+[![Email](https://img.shields.io/badge/Email-muralikrishna08008%40gmail.com-ff2d95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muralikrishna08008@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Murali--Hacker--Efx-7b2ff7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Murali-Hacker-Efx)
 
-```text
-⚡ Electronics
-📡 Internet of Things
-🏠 Home Automation
-🤖 Embedded Systems
-🔐 Cybersecurity
-🌐 Networking
-🛠️ Hardware Development
+</div>
+
+<div align="center">
+<sub>⚡ Thanks for stopping by — keep coding, keep growing.</sub>
+</div>
