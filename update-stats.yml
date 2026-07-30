@@ -1,0 +1,44 @@
+name: Update Profile Stats
+
+# Refreshes stats.svg, langs.svg, trophies.svg and the README project table
+# with REAL data pulled live from the GitHub API. No stats are ever hard-coded.
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # once a day
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Fetch live stats and regenerate cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TARGET_USERNAME: Murali-Hacker-Efx
+        run: node scripts/update-stats.mjs
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add stats.svg langs.svg trophies.svg README.md
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: refresh live GitHub stats [skip ci]"
+            git push
+          else
+            echo "No changes to commit."
+          fi
